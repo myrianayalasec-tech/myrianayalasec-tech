@@ -1,12 +1,12 @@
 
-# 👋 Hola, I'm Myrian Ayala!
+# 👋 Hey, I'm Myrian!
 
 ### 🐌 Ethical Hacker | Cybersecurity Enthusiast
 **Slow moves. Deep access.** 🔐
 
 I'm a cybersecurity professional passionate about offensive security, penetration testing, and understanding how systems can be broken to make them stronger.
 
-Originally from Paraguay 🇵🇾, with an international perspective and a curious mind. I enjoy exploring technology, solving problems, and continuously learning something new.
+I am someone with an international perspective and a curious mind. I enjoy exploring technology, solving problems, and continuously learning something new.
 
 ---
 
