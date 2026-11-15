@@ -46,9 +46,10 @@ I am someone with an international perspective and a curious mind. I enjoy explo
 
 ### 🌱 Currently Exploring
 
+- Usage of AI in Pentesting and Automation.
 - Advanced web application penetration testing.
 - Cloud offensive security.
-- Security research and automation.
+- Security research.
 
 Always learning. Always curious.
 
