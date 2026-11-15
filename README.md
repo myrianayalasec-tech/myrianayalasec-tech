@@ -47,7 +47,6 @@ I am someone with an international perspective and a curious mind. I enjoy explo
 ### 🌱 Currently Exploring
 
 - Advanced web application penetration testing.
-- Active Directory security assessments.
 - Cloud offensive security.
 - Security research and automation.
 
@@ -60,7 +59,7 @@ Always learning. Always curious.
 > I believe curiosity is a lifelong skill, that the universe is conspiring in our favor (pronoia), and that technology should create opportunities, empower people, and bring us closer together.
 
 - 🇵🇾 Paraguayan roots, global mindset.
-- 🌿 Nature lover and tereré enthusiast.
+- 🌿 Nature lover and tereré and mate enthusiast.
 - 🐌 Building my own corner of the cybersecurity world through **SlothSec**.
 
 ---
